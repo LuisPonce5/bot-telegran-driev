@@ -1,0 +1,4 @@
+git add requirements.txt
+git commit -m "Agregar dependencias"
+git push
+
