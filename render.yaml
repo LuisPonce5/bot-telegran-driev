@@ -1,5 +1,6 @@
+
 services:
-  - type: worker
+  - type: worker     # ← aquí está el cambio importante
     name: telegram-bot
     env: python
     region: oregon
